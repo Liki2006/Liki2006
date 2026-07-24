@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I'm Likhith 👋
+Aspiring Data Analyst | SQL • Python • Power BI • Excel
+One line such as: Turning raw data into business insights and actionable decisions.
+
 
 <!--
 **Liki2006/Liki2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
