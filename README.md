@@ -74,4 +74,4 @@ Raw Data → Python Cleaning & EDA → SQL Analysis → Power BI Dashboard
 
 ## 📫 Connect With Me
 
-in/ likhith05 | likhithhliki@gmail.com
+[in/ likhith05](https://www.linkedin.com/in/likhith05/) | likhithhliki@gmail.com
